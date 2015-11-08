@@ -2,4 +2,4 @@
 **Country: ** Lebanon
 **Favorite Food: ** Stake
 **Hobby: ** Swimming
-**Favorite Color: ** Navy
+**Favorite Color: ** Navy, Black
